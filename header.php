@@ -5,7 +5,7 @@
     if (!isset($_SESSION['username'])){
         header("Location:./login.php?msg=Silahkan Login Dahulu");
     }
-    include "../connect.php";
+    include "connect.php";
     $sql_user = "select * from login where user='$username'";
     $hasil_user = mysqli_query($koneksi, $sql_user,);
     $pilih_user=mysqli_fetch_array($hasil_user);

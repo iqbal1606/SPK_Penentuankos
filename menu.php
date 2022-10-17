@@ -5,7 +5,7 @@
                 <nav class="sidebar-nav">
                     
                     <?php 
-        if ($_SESSION[status]==admin){ 
+        if ($_SESSION['status']=='admin'){ 
         ?>
 
         <ul id="sidebarnav">
@@ -32,7 +32,7 @@
         </ul>   
 
         <?php
-        } else if ($_SESSION[status]==pemilik){ 
+        } else if ($_SESSION['status']=='pemilik'){ 
         ?>
 
         <ul id="sidebarnav">
@@ -56,7 +56,7 @@
         </ul>  
 
         <?php
-        } else if ($_SESSION[status]==user){ 
+        } else if ($_SESSION['status']=='user'){ 
         ?>
 
         <ul id="sidebarnav">

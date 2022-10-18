@@ -52,7 +52,7 @@ include "menu.php";
 		          	SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN INDEKOS TERBAIK DI SEKITAR KAMPUS <br> MENGGUNAKAN METODE TOPSIS
 					
 		          </p>
-		          <p class="lead" align="center"><img src="images/muris-studio.jpg" align="center" width="150"></p>
+		          <p class="lead" align="center"><img src="images/banteng biru.png" align="center" width="150"></p>
 
                   <table class="table table-sm" align="left">
                          <tr>
@@ -99,7 +99,7 @@ include "menu.php";
 		          	SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN INDEKOS TERBAIK DI SEKITAR <br>MENGGUNAKAN METODE TOPSIS
 					
 		          </p>
-		          <p class="lead" align="center"><img src="images/muris-studio.jpg" align="center" width="80"></p>
+		          <p class="lead" align="center"><img src="images/banteng biru.png" align="center" width="80"></p>
 
                   <table class="table table-sm" align="left">
                          <tr>

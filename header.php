@@ -87,7 +87,7 @@
                         <!-- Logo text --><span>
                          
                          <!-- Light Logo text -->    
-                         <img src="assets/images/logo-spk.png" class="light-logo" alt="homepage" /></span> </a>
+                         <img src="assets/images/logo_kos.png" class="light-logo" alt="homepage" /></span> </a>
                 </div>
                 <!-- ============================================================== -->
                 <!-- End Logo -->

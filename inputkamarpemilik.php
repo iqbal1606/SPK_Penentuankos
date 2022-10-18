@@ -22,6 +22,8 @@
     </script>
 
     <div class="container">
+      <br>
+     <a class="btn btn-primary" href="halutama.php" role="button">Back</a>
 
       <h1 class="mt-5">Input Kamar Pemilik Kos</h1>
       <div class="row">

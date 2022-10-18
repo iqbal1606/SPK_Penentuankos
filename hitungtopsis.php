@@ -8,6 +8,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
+            <br>
+        <a class="btn btn-primary" href="halutama.php" role="button">Back</a>
           <h1 class="mt-5">Cari Kriteria Menggunakan Nilai BOBOT (W)</h1>
 
           <div class="panel panel-default">
